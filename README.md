@@ -24,11 +24,11 @@ Sign up here: https://ladsweb.modaps.eosdis.nasa.gov/tools-and-services/data-dow
 
 📁 File Structure 
 
-monthly_ntl_clean_int_v3_base.py – Python script handling extraction, filtering of poor pixels, masking, linear imputation, and zonal statistics logic 
+- monthly_ntl_clean_int_v3_base.py – Python script handling extraction, filtering of poor pixels, masking, linear imputation, and zonal statistics logic 
 
-ntl_monthly_bmi_redacted.ipynb – Notebook interface (recommended: run on Google Colab) 
+- ntl_monthly_bmi_redacted.ipynb – Notebook interface (recommended: run on Google Colab) 
 
-Shapefile/ – Folder containing your admin boundary shapefile 
+- Shapefile/ – Folder containing your admin boundary shapefile 
 
 
 🛠️ Prerequisites 
